@@ -1,7 +1,7 @@
+github.com/BenLubar-PR/go-mastodon v0.0.3-0.20190427015647-5ff4ecfd52d2 h1:tJRoO0b53YQjEexj02zH5O3UIo6rJcAH99X/2JCkue4=
+github.com/BenLubar-PR/go-mastodon v0.0.3-0.20190427015647-5ff4ecfd52d2/go.mod h1:FSdXZyYNF22wiS4coSWuDdmJwZIUbLeyoLoUxrTFvXQ=
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
 github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
-github.com/mattn/go-mastodon v0.0.4-0.20190427015654-7a99a0805e13 h1:oe/m8017u69F3/pTYXrIbdDr4fpwr4Rw/3sKzJrSe6E=
-github.com/mattn/go-mastodon v0.0.4-0.20190427015654-7a99a0805e13/go.mod h1:/OSOSDJyV0OUlBuDV0Qrllizt3BJNj4Ir5xhckYRVmg=
 github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 h1:nrZ3ySNYwJbSpD6ce9duiP+QkD3JuLCcWkdaehUS/3Y=
 github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80/go.mod h1:iFyPdL66DjUD96XmzVL3ZntbzcflLnznH0fr99w5VqE=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
