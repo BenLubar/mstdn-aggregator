@@ -8,5 +8,3 @@ require (
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 // indirect
 	gopkg.in/yaml.v2 v2.2.2
 )
-
-replace github.com/mattn/go-mastodon => github.com/BenLubar-PR/go-mastodon v0.0.3-0.20190427015647-5ff4ecfd52d2
